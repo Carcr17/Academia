@@ -1,21 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>AnimalLocator</members>
-        <members>AnimalLocatorMock</members>
-        <members>AnimalLocatorTest</members>
-        <members>LineItemClass</members>
-        <members>LineItemClassTest</members>
+        <members></members> 
+        <members></members>
+        
         <name>ApexClass</name>
     </types>
+
     <types>
-        <members>Line_Item_Trigger</members>
+        <members></members> 
         <name>ApexTrigger</name>
     </types>
+
     <types>
-        <members>Line_Item__c</members>
-        <members>Product_Line_Item__c</members>
+        <members></members>
+         <members></members>
         <name>CustomObject</name>
     </types>
+
+    <types>
+        <members>DisplayImage</members>
+         <members></members>
+        <name>ApexPage</name>
+    </types>
+
+    <types>
+        <members>helloWorld</members>
+         <members></members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+
     <version>45.0</version>
 </Package>
